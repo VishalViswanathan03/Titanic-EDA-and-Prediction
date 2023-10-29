@@ -1,7 +1,8 @@
 # Titanic-EDA-and-Prediction
 Exploratory Data Analysis on the Titanic dataset and predicting survival using logistic regression model. 
-Load Data: The training and testing datasets are loaded from CSV files ("train.csv" and "test.csv") using Pandas.
 
+Load Data: The training and testing datasets are loaded from CSV files ("train.csv" and "test.csv") using Pandas.
+ 
 Data Exploration: Initial data exploration, checking for missing values and displaying the first few rows of the training dataset. 
 
 Data Visualization: Seaborn is used to create bar plots to visualize the relationships between the "Sex" and "Pclass" features and the target variable "Survived."
